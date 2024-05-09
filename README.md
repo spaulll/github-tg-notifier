@@ -18,7 +18,7 @@ This Python script sets up a webhook server using Flask to listen for GitHub eve
     pip install flask requests
     ```
 
-3. Create a Telegram bot and obtain the bot token. You can create a new bot and get the token from [BotFather](https://core.telegram.org/bots#6-botfather).
+3. Create a Telegram bot and obtain the bot token. You can create a new bot and get the token from [BotFather](https://core.telegram.org/bots#how-do-i-create-a-bot).
 
 4. Get your Telegram chat ID. You can use the `getUpdates` method of the Telegram Bot API or use a bot like `@userinfobot` to get your chat ID.
 
